@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/getting-started/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/guide/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/advanced/hpc/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/advanced/finetuning/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/advanced/thresholds/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/misc/versions/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/misc/troubleshooting/</loc>
+      </url>
+      <url>
+        <loc>https://arxaqapi.github.io/LAAC-LSCP-documentation/babyhubert/</loc>
+      </url>
+</urlset>
