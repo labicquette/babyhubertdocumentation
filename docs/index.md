@@ -4,7 +4,9 @@ icon: lucide/home
 
 # BabyHuBERT
 
-BabyHuBERT is an audio encoder model trained by reconstructing multilingual child-centered long-form audio recordings. From the raw audios, the model extracts richer representations from long-form recordings than usual models trained on clean, well spelled speech. You don't usually use a model as is, you fine-tune the pretrained model to a specific task.
+BabyHuBERT is an audio encoder model trained by reconstructing multilingual child-centered long-form audio recordings. From the raw audios of longform recordings, the model extracts richer representations than usual models trained on clean, well spelled speech. You don't usually use a model as is, you fine-tune the pretrained model to a specific task.
+
+![BabyHuBERT one pager description](assets/BabyHuBERT_onepager.png)
 
 
 ## What BabyHuBERT is *not*
@@ -37,9 +39,10 @@ Statement below
 
 
 ## How to access model
-- Ethics statement
-- Accept License
-- HuggingFace
+1. Read the Ethics statement
+2. Go on the BabyHuBERT repo : [coml/BabyHuBERT](assets/BabyHuBERT_onepager.png)
+3. Fill the required fields and accept the license
+4. Download the model
 
 ## How to cite
 ```bibtex

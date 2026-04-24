@@ -12,13 +12,18 @@ nav = [
     
     { "BabyHuBERT" = [
         {"Home" = "index.md"},
+        { "One pager" = "one_pager.md" },
         { "Ethics" = [
             "ethics/ethics.md",
         ] },
         { "Advanced" = [
             "advanced/representations.md",
         ] },
-    ]}
+    ]},
+
+    { "Addressee" = [
+        "https://labicquette.github.io/babyhubertdocumentation/"
+    ]},
 ]
 
 [project.theme]
