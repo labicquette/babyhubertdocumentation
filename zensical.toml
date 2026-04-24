@@ -1,28 +1,23 @@
 [project]
-site_name = "VTC — Voice Type Classifier"
-site_url = "https://arxaqapi.github.io/LAAC-LSCP-documentation"
+site_name = "LAAC-LSCP Models"
+site_url = "https://labicquette.github.io/babyhubertdocumentation/"
 site_description = "A deep learning model for classifying speakers in child-centered long-form audio recordings."
 site_author = "LAAC-LSCP"
 copyright = "&copy; 2026 LAAC-LSCP, ENS-PSL"
 
 nav = [
-    { "VTC 2.0" = [
-        { "Home" = "index.md" },
-        { "Getting Started" = "getting-started.md" },
-        { "User Guide" = "guide.md" },
-        { "Advanced" = [
-            { "HPC" = "advanced/hpc.md" },
-            "advanced/finetuning.md",
-            "advanced/thresholds.md",
-        ] },
-        { "Miscellaneous" = [
-            { "Version History" = "misc/versions.md" },
-            { "Troubleshooting" = "misc/troubleshooting.md" },
-        ] },
-    ] },
-
+    { "VTC2.0" = [
+        "https://arxaqapi.github.io/LAAC-LSCP-documentation/"
+    ]},
+    
     { "BabyHuBERT" = [
-        "babyhubert/index.md"
+        {"Home" = "index.md"},
+        { "Ethics" = [
+            "ethics/ethics.md",
+        ] },
+        { "Advanced" = [
+            "advanced/representations.md",
+        ] },
     ]}
 ]
 

@@ -3,7 +3,7 @@
 icon: octicons/ai-model-24
 ---
 
-# Fine-tuning VTC 2.0
+# Representation Extraction
 
 
 Fine-tuning VTC on your own annotated data can improve results for specific recording environments or populations. This requires annotated audio (human-labeled RTTM files), a GPU with 16+ GB memory, and familiarity with deep learning training pipelines.
