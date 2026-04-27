@@ -12,9 +12,10 @@ nav = [
     
     { "BabyHuBERT" = [
         {"Home" = "index.md"},
-        { "One pager" = "one_pager.md" },
         { "Ethics" = [
-            "ethics/ethics.md",
+            "one_pager.md",
+            "flow_chart.md",
+            "license.md"
         ] },
         { "Advanced" = [
             "advanced/representations.md",
